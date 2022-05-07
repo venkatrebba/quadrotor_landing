@@ -1,0 +1,5 @@
+<launch>
+	
+	<node pkg="ardrone_moves" type="ardrone_keyboard_control" name="ardrone_keyboard_control" output="screen">
+	</node>
+</launch>
